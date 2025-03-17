@@ -5,7 +5,7 @@
 - Packages: The linux name for apps/software.
 - ``` # ```: Means comments to a command that will not run.
  
-## Terminal Command
+## Default Terminal Commands
 
 ### apt
 The default command-line package manager used to install, update, and remove software packages on Linux Mint.
@@ -35,3 +35,26 @@ cd ../ # Go back one folder
 cd ~/Downloads # How to go to the Downloads in any folder
 # ~/ = shortcut for the home directory /home/youruser
 ```
+
+## Terminal Packages Commands
+
+### man
+A command to view other terminal packages manuals.
+```
+man mullvad # Will list the manual for the mullvad command 
+```
+
+### btop
+Terminal task manager.
+'''
+btop # Opens btop
+'''
+
+### cmatrix
+Matrix screen saver.
+'''
+cmatrix # Start cmatrix
+cmatrix -C magenta # The -C commands changes the color of the screensaver.
+''' 
+
+
