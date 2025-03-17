@@ -19,3 +19,15 @@ For more options/help on how to use ls you can use the following command
 ls --help
 ```
 
+### cd 
+The 'cd' command changes the current directory.
+''' 
+cd # Brings you to the home directory
+
+cd Downloads # Example cd into Downloads
+
+cd ../ # Go back one folder
+
+cd ~/Downloads # How to go to the Downloads in any folder
+# ~/ = shortcut for the home directory /home/youruser
+'''
