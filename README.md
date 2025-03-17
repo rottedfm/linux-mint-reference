@@ -2,21 +2,24 @@
 
 # Key Words
 - Directory: The correct name for folder.
+- Packages: The linux name for apps/software.
+ 
+## Terminal Command
 
-## Terminal Commands
+### apt
+The default command-line package manager used to install, update, and remove software packages on Linux Mint.
+```
+sudo apt update # Update the list of available packages
+sudo apt upgrade # Upgrades installed packages to the latest version
+sudo apt install # Installs a new package
+sudo apt remove # removes a installed package
+```
 
 ### ls 
 The 'ls' command lists the names of files and directories in the current directory. 
 ```
-ls 
-```
-To list all directoies, files, and hidden files in the current directory use the following command.
-```
-ls -a 
-```
-For more options/help on how to use ls you can use the following command
-```
-ls --help
+ls # List files and directories of the current directory
+ls -a # List files, directories, and hidden files of the current directory
 ```
 
 ### cd 
