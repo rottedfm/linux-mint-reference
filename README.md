@@ -1,9 +1,12 @@
 # linux-mint-reference
 
-# Key Words
+## Key Words
 - Directory: The correct name for folder.
 - Packages: The linux name for apps/software.
 - ``` # ```: Means comments to a command that will not run.
+
+## Useful Links
+- [Linux Mint Trouble Shooting Guide](https://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/observation.html)
  
 ## Default Terminal Commands
 
