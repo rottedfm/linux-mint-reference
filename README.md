@@ -3,6 +3,7 @@
 # Key Words
 - Directory: The correct name for folder.
 - Packages: The linux name for apps/software.
+- ``` # ```: Means comments to a command that will not run.
  
 ## Terminal Command
 
