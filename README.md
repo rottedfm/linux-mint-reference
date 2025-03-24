@@ -8,6 +8,7 @@
 ## Useful Links
 - [DeepSeek(Free Chatgpt)](https://chat.deepseek.com/sign_in)
 - [Torrenting Megathread](https://rentry.co/megathread)
+- [What Is Linux](https://https://www.linux.com/what-is-linux/)
  
 ## Default Terminal Commands
 
